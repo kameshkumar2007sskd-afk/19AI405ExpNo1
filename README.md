@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Kamesh Kumar N</h3>
+<h3>Name: Kamesh Kumar </h3>
 <h3>Register Number: 212225220046</h3>
 
 
