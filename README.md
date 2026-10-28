@@ -41,7 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-#Programme:
+## Programme:
 ```
 import random
 
@@ -115,7 +115,8 @@ if __name__ == "__main__":
     health_monitoring_agent.monitor_health()
 ```
 
-#Output:
+## Output:
+
 <img width="801" height="391" alt="image" src="https://github.com/user-attachments/assets/02bdc089-9dd7-4335-abdf-4ada7defab76" />
 
 ## Result:
